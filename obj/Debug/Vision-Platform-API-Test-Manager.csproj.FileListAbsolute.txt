@@ -1,0 +1,10 @@
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\bin\Debug\Vision-Platform-API-Test-Manager.exe.config
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\bin\Debug\Vision-Platform-API-Test-Manager.exe
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\bin\Debug\Vision-Platform-API-Test-Manager.pdb
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision-Platform-API-Test-Manager.csproj.AssemblyReference.cache
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision_Platform_API_Test_Manager.Form1.resources
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision_Platform_API_Test_Manager.Properties.Resources.resources
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision-Platform-API-Test-Manager.csproj.GenerateResource.cache
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision-Platform-API-Test-Manager.csproj.CoreCompileInputs.cache
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision-Platform-API-Test-Manager.exe
+D:\Project\Vision Platform API Test Manager\Vision-Platform-API-Test-Manager\obj\Debug\Vision-Platform-API-Test-Manager.pdb
